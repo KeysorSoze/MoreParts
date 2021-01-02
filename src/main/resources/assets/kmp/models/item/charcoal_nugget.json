@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kmp:items/charcoal_nugget"
+  }
+}

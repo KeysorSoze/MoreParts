@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "kmp",
-  "version": "${version}",
+  "version": "1.0.0",
 
   "name": "More Parts",
   "description": "This mod adds more crafting parts. Designed as a dependency for future mods.",
