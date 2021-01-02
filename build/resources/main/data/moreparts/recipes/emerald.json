@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreparts:emerald_shard"
+    },
+    {
+      "item": "moreparts:emerald_shard"
+    },
+    {
+      "item": "moreparts:emerald_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}

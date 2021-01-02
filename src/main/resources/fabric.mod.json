@@ -3,7 +3,7 @@
   "id": "moreparts",
   "version": "${version}",
 
-  "name": "More Parts",
+  "name": "MoreParts",
   "description": "This mod adds more crafting parts. Designed as a dependency for future mods.",
   "authors": [
     "Keysorsoze"

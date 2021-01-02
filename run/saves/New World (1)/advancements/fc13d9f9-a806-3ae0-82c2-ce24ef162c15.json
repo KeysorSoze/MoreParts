@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2021-01-01 22:39:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2021-01-01 22:39:51 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

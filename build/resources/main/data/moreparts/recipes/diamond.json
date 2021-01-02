@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreparts:diamond_shard"
+    },
+    {
+      "item": "moreparts:diamond_shard"
+    },
+    {
+      "item": "moreparts:diamond_shard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

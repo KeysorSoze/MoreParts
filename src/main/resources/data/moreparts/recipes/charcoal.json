@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    },
+    {
+      "item": "moreparts:charcoal_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}

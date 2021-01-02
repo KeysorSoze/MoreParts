@@ -1,4 +1,4 @@
-com/keysorsoze/moreparts/regestry/ItemRegistery.java
- com.keysorsoze.moreparts.regestry.ItemRegistery
 com/keysorsoze/moreparts/MoreParts.java
  com.keysorsoze.moreparts.MoreParts
+com/keysorsoze/moreparts/regestry/ItemRegistry.java
+ com.keysorsoze.moreparts.regestry.ItemRegistry
