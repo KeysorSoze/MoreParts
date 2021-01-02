@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "kmp",
+  "id": "moreparts",
   "version": "${version}",
 
   "name": "More Parts",
@@ -14,12 +14,12 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/kmp/icon.png",
+  "icon": "assets/moreparts/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.keysorsoze.moreParts.MoreParts"
+      "com.keysorsoze.moreparts.MoreParts"
     ]
   },
   "mixins": [
